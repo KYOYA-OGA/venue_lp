@@ -11,7 +11,7 @@ const Pricing = () => {
       'Sriracha fanny pack selvage, umami brooklyn shabby chic mlkshk squid kitsch mumblecore shoreditch. Pour-over shaman pork belly migas selvage, food truck godard',
       'ers activated charcoal fingerstache prism, raclette art party cray deep v YOLO tofu godard fashion axe shaman literally. Listicle scenester mlkshk af franzen artisan snackwave. Craft beer af cornhole PBR&B normcore, locavore',
     ],
-    linkto: ['http://sales.a', 'http://sales.b', 'http://sales.c'],
+    linkto: ['#', '#', '#'],
     delay: [500, 0, 500],
   }
 

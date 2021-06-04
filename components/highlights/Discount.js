@@ -48,7 +48,7 @@ const Discount = () => {
 
             <MyButton
               text="Purchase tickets"
-              link="https://google.com"
+              link="#"
               size="small"
               style={{ background: '#ffa800', color: '#fff' }}
               iconTicket
