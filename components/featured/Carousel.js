@@ -17,7 +17,7 @@ const Carousel = () => {
         <picture>
           <source
             media="(max-width: 765px)"
-            srcSet="/images/slide_three_sp.jpeg"
+            srcSet="/images/slide_three_sp.webp"
           />
           <img
             src="/images/slide_three.jpeg"
@@ -29,7 +29,7 @@ const Carousel = () => {
         <picture>
           <source
             media="(max-width: 765px)"
-            srcSet="/images/slide_two_sp.jpeg"
+            srcSet="/images/slide_two_sp.webp"
           />
           <img
             src="/images/slide_two.jpeg"
@@ -41,7 +41,7 @@ const Carousel = () => {
         <picture>
           <source
             media="(max-width: 765px)"
-            srcSet="/images/slide_one_sp.jpeg"
+            srcSet="/images/slide_one_sp.webp"
           />
           <img
             src="/images/slide_one.jpeg"
